@@ -62,14 +62,14 @@ This will start a web server, and you will see a URL in the console output. Open
 
 ## Video Demonstration
 
-You can watch a demonstration of the application below:
+You can watch a demonstration of the application [here](https://youtu.be/lLEenMOYr5w).
 
-<iframe width="560" height="315" src="https://youtu.be/lLEenMOYr5w" frameborder="0" allowfullscreen></iframe>
+Or click the thumbnail below to watch:
+
+[![Watch the video](https://img.youtube.com/vi/lLEenMOYr5w/0.jpg)](https://youtu.be/lLEenMOYr5w)
+
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
