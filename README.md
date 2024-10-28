@@ -25,8 +25,8 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/uweeeem/Chromadb.git
+   cd Chromadb
    ```
 
 2. **Create a virtual environment (optional but recommended):**
