@@ -1,3 +1,4 @@
+
 # Inspiration Search Engine
 
 This project is an Inspiration Search Engine that allows users to find visually similar images based on a textual query. The application utilizes OpenAI's CLIP model for image and text feature extraction, and ChromaDB for managing image embeddings.
@@ -26,3 +27,49 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+   ```
+
+2. **Create a virtual environment (optional but recommended):**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install the required packages:**
+
+   ```bash
+   pip install torch torchvision transformers gradio chromadb requests scikit-learn
+   ```
+
+## Usage
+
+To run the application, execute the following command:
+
+```bash
+python app.py
+```
+
+This will start a web server, and you will see a URL in the console output. Open that URL in your browser to access the Inspiration Search Engine.
+
+### Example Queries
+
+- Modern living room
+- Minimalist kitchen design
+- Outdoor garden ideas
+
+
+
+## Video Demonstration
+
+You can watch a demonstration of the application below:
+
+<iframe width="560" height="315" src="https://youtu.be/lLEenMOYr5w" frameborder="0" allowfullscreen></iframe>
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
